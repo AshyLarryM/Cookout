@@ -42,4 +42,4 @@ Users are also able to comment on each others recipes, with a time stamp for the
 - CSS
 - Javascript
 
-** I hope you enjoy this application, if not at the very least the 🔥 recipes should keep you full and happy.
+** I hope you enjoy this application, if not at the very least the 🔥 recipes should keep you full and happy.**
