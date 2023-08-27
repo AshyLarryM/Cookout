@@ -17,6 +17,9 @@ To gain access to the application, Users are met with a "Login" or "Signup"
 
 <img width="1421" alt="Screenshot 2023-08-27 at 7 05 34 PM" src="https://github.com/AshyLarryM/Cookout-Recipe-Sharing/assets/89487278/69ab8b6c-266a-4466-88e5-d175f11ce1eb">
 
+Create a new account, select a user name, and upload a profile picture.
+<img width="1425" alt="Screenshot 2023-08-27 at 7 12 32 PM" src="https://github.com/AshyLarryM/Cookout-Recipe-Sharing/assets/89487278/c0072854-2efc-4c18-a913-8f4ae75ee07f">
+
 <img width="1428" alt="Screenshot 2023-08-27 at 7 07 41 PM" src="https://github.com/AshyLarryM/Cookout-Recipe-Sharing/assets/89487278/e0e81658-7036-4f5d-8c58-d395be87aae0">
 
 
