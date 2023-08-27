@@ -1,0 +1,56 @@
+.create-form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: normal;
+    /* margin-left: 300px; */
+    justify-content: center;
+    height: 100%;
+    max-width: 600px;
+    color: #1c1c1c;
+}
+.create-form .recipe-image{
+    width: 400px;
+}
+
+@media (max-width: 2150px) {
+    .create-form{
+        margin-left: 330px;
+    }
+}
+
+@media (max-width: 1950px) {
+    .create-form{
+        margin-left: 290px;
+    }
+}
+
+@media (max-width: 1750px) {
+    .create-form{
+        margin-left: 250px;
+    }
+}
+
+@media (max-width: 1550px) {
+    .create-form{
+        margin-left: 120px;
+    }
+}
+
+@media (max-width: 1250px) {
+    .create-form{
+        margin-left: 300px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .create-form{
+        margin-left: 200px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .create-form{
+        margin-left: 0;
+    }
+}

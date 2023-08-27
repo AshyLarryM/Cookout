@@ -1,0 +1,48 @@
+.user-list {
+    
+    width: 250px;
+    min-width: 200px;
+    padding: 30px;
+    min-height: 100vh;
+    box-sizing: border-box;
+    /* background: #fbfbfb; */
+    background: var(--primary-color);
+    float: right;
+    /* color: var(--heading-color); */
+    color: #d5f8f7;
+  }
+  .user-list h2 {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d5f8f7;
+    font-size: 1.2em;
+  }
+  .user-list .user-list-item {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 20px auto;
+  }
+  .user-list .avatar {
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+  }
+
+  .user-list .online-user {
+    display: inline-block;
+    margin-right: 10px;
+    width: 12px;
+    height: 12px;
+    background: rgb(16, 159, 107);
+    border-radius: 50%;
+    margin-top: 2px;
+  }
+
+  @media (max-width: 1250px) {
+
+    .user-list{
+    display: none;
+    }
+  }
