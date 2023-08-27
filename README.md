@@ -25,5 +25,19 @@ Create a new account, select a user name, and upload a profile picture.
 
 Once logged in, users have access to the main dashboard where they can view other users that have been authenticated, and recipes posted by the community of users.  Above the recipes there are multiple categories to filter the recipes based on the type of meal you are desiring.
 
+
+
 <img width="1424" alt="Screenshot 2023-08-27 at 6 46 18 PM" src="https://github.com/AshyLarryM/Cookout-Recipe-Sharing/assets/89487278/531b0b20-1679-4c76-8894-2f1a94d714ae">
+
+** Creating a recipe**
+In order to create a recipe, click "Add Recipe" from the navigation, and enter the attributes for your recipe.  Included attributes for a recipe include a Name, Category, Directions, Prep Time, Cook Time, Ingredients, Total Calories, and an Image.
 <img width="1422" alt="Screenshot 2023-08-27 at 7 14 31 PM" src="https://github.com/AshyLarryM/Cookout-Recipe-Sharing/assets/89487278/2f9917d7-252d-4d98-993c-c4f20d967973">
+
+Users are also able to comment on each others recipes, with a time stamp for the comments.
+
+<img width="1424" alt="Screenshot 2023-08-27 at 7 19 45 PM" src="https://github.com/AshyLarryM/Cookout-Recipe-Sharing/assets/89487278/617229e3-4240-47b5-8bc3-4cb6b9bb20b1">
+
+## Technologies
+- Firebase(Authentication, Cloud FireStore, Firebase Hosting, Firebase Storage)
+- CSS
+- Javascript
