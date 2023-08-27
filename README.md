@@ -29,7 +29,7 @@ Once logged in, users have access to the main dashboard where they can view othe
 
 <img width="1424" alt="Screenshot 2023-08-27 at 6 46 18 PM" src="https://github.com/AshyLarryM/Cookout-Recipe-Sharing/assets/89487278/531b0b20-1679-4c76-8894-2f1a94d714ae">
 
-** Creating a recipe**
+**Creating a recipe**
 In order to create a recipe, click "Add Recipe" from the navigation, and enter the attributes for your recipe.  Included attributes for a recipe include a Name, Category, Directions, Prep Time, Cook Time, Ingredients, Total Calories, and an Image.
 <img width="1422" alt="Screenshot 2023-08-27 at 7 14 31 PM" src="https://github.com/AshyLarryM/Cookout-Recipe-Sharing/assets/89487278/2f9917d7-252d-4d98-993c-c4f20d967973">
 
@@ -42,4 +42,4 @@ Users are also able to comment on each others recipes, with a time stamp for the
 - CSS
 - Javascript
 
-** I hope you enjoy this application, if not at the very least the 🔥 recipes should keep you full and happy.**
+**I hope you enjoy this application, if not at the very least the 🔥 recipes should keep you full and happy.**
